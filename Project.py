@@ -1,15 +1,3 @@
-'''
-Questão número 1
-
-INDICE = 13
-SOMA = 0
-K = 0
-while K < INDICE:
-    K = K + 1
-    SOMA = SOMA + K
-print(SOMA)
-'''
-# Função para verificar se um número pertence à sequência de Fibonacci
 def is_fibonacci(num):
     if num < 0:
         return False
