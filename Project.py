@@ -1,4 +1,4 @@
-# Questão número 3
+# Questão número 2
 def is_fibonacci(num):
     if num < 0:
         return False
